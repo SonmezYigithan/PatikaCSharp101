@@ -1,0 +1,15 @@
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\bin\Debug\net6.0\L5_Operators.exe
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\bin\Debug\net6.0\L5_Operators.deps.json
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\bin\Debug\net6.0\L5_Operators.runtimeconfig.json
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\bin\Debug\net6.0\L5_Operators.dll
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\bin\Debug\net6.0\L5_Operators.pdb
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.csproj.AssemblyReference.cache
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.AssemblyInfoInputs.cache
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.AssemblyInfo.cs
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.csproj.CoreCompileInputs.cache
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.dll
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\refint\L5_Operators.dll
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.pdb
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\L5_Operators.genruntimeconfig.cache
+F:\Projelerim\C#\PatikaCSharp101\L5_Operators\obj\Debug\net6.0\ref\L5_Operators.dll
