@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/PatikaCSharp101.csproj",
+                "${workspaceFolder}/L4_Veriables.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/PatikaCSharp101.csproj",
+                "${workspaceFolder}/L4_Veriables.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/PatikaCSharp101.csproj"
+                "${workspaceFolder}/L4_Veriables.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

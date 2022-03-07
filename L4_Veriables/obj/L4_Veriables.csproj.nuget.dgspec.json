@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj": {}
+    "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj": {}
   },
   "projects": {
-    "F:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj": {
+    "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj",
-        "projectName": "PatikaCSharp101",
-        "projectPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj",
+        "projectUniqueName": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj",
+        "projectName": "L4_Veriables",
+        "projectPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj",
         "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
-        "outputPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\obj\\",
+        "outputPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",

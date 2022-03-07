@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "f:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj",
-      "projectName": "PatikaCSharp101",
-      "projectPath": "f:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\PatikaCSharp101.csproj",
+      "projectUniqueName": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj",
+      "projectName": "L4_Veriables",
+      "projectPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\L4_Veriables.csproj",
       "packagesPath": "C:\\Users\\as\\.nuget\\packages\\",
-      "outputPath": "f:\\Projelerim\\C#\\PatikaCSharp101\\veriables\\obj\\",
+      "outputPath": "F:\\Projelerim\\C#\\PatikaCSharp101\\L4_Veriables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\as\\AppData\\Roaming\\NuGet\\NuGet.Config",

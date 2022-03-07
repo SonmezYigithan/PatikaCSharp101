@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PatikaCSharp101
+namespace L4_Veriables
 {
     class Program
     {
