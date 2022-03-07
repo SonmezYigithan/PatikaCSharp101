@@ -1,0 +1,15 @@
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\bin\Debug\net6.0\L4_Veriables.exe
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\bin\Debug\net6.0\L4_Veriables.deps.json
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\bin\Debug\net6.0\L4_Veriables.runtimeconfig.json
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\bin\Debug\net6.0\L4_Veriables.dll
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\bin\Debug\net6.0\L4_Veriables.pdb
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.csproj.AssemblyReference.cache
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.AssemblyInfoInputs.cache
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.AssemblyInfo.cs
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.csproj.CoreCompileInputs.cache
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.dll
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\refint\L4_Veriables.dll
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.pdb
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\L4_Veriables.genruntimeconfig.cache
+F:\Projelerim\C#\PatikaCSharp101\L4_Veriables\obj\Debug\net6.0\ref\L4_Veriables.dll
